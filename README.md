@@ -21,9 +21,9 @@ inference on images and draws bounding box and class label.
 - Make sure you create a label.txt where in object names of your Dataset are listed.
 
 ## Requirements 
-- tensorflow
-- PyQt5
-- Opencv
+- [tensorflow](https://www.tensorflow.org/install)
+- [PyQt5](https://pypi.org/project/PyQt5/)
+- [Opencv](pip install opencv-python)
 
 ## References
 - [Tensorflow model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
