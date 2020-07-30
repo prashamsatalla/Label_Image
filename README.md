@@ -4,7 +4,7 @@ Designed a python based auto labeling tool ,where in we can load a tensorflow mo
 inference on images and draws bounding box and class label.
 
 ## How to use :
-1. CLone this [repository](https://github.com/prashamsatalla/Label_Image.git).
+1. Clone this [repository](https://github.com/prashamsatalla/Label_Image.git).
 2. Go to the directory where label.py exists.
 3. Run the python file.
 4. Then there appears UI. Select images folder by clicking 'Directory' and then once loaded click 'Select Image' to select desired image.
