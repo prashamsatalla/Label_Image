@@ -7,8 +7,20 @@ inference on images and draws bounding box and class label.
 1. Clone this [repository](https://github.com/prashamsatalla/Label_Image.git).
 2. Go to the directory where label.py exists.
 3. Download Faster R-CNN, Mask R-CNN, ssdlite_mobilenet_v2 models from this [drive link](https://drive.google.com/drive/folders/1853yBqfrJuqaQfzxgH8HkIb-W3-qHlEu?usp=sharing).Unzip files and copy them in the directory.
+
+###### Folder Structure:
+  -Label_Image
+   -faster_rcnn
+   -Mask_RCNN
+   -ssdlite_mobilenet_v2
+   -label.py
+   -detection.py ( detailed code to get detected labels and co ordinates from model )
+
 4. Run the python file.
-<img src="images/label_img.png" width="700" height="500">
+```bash
+python label.py
+```
+<img src="label_img.png" width="700" height="500">
 5. Then there appears UI. Select images folder by clicking 'Directory' and then once loaded click 'Select Image' to select desired image.
 6. Select model and Detection threshold as required.
 7. Also select object that you want the model to detect.
