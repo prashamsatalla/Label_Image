@@ -9,12 +9,12 @@ inference on images and draws bounding box and class label.
 3. Download Faster R-CNN, Mask R-CNN, ssdlite_mobilenet_v2 models from this [drive link](https://drive.google.com/drive/folders/1853yBqfrJuqaQfzxgH8HkIb-W3-qHlEu?usp=sharing).Unzip files and copy them in the directory.
 
 ###### Folder Structure:
-  -Label_Image
-   -faster_rcnn
-   -Mask_RCNN
-   -ssdlite_mobilenet_v2
-   -label.py
-   -detection.py ( detailed code to get detected labels and co ordinates from model )
+  - Label_Image
+    - faster_rcnn
+    - Mask_RCNN
+    - ssdlite_mobilenet_v2
+    - label.py
+    - detection.py ( detailed code to get detected labels and co ordinates from model )
 
 4. Run the python file.
 ```bash
