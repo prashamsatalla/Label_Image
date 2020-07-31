@@ -17,7 +17,7 @@ inference on images and draws bounding box and class label.
 - This tool confines to the models Faster R-CNN, Mask R-CNN, ssdlite_mobilenet_v2.
 
 ## Custom Application:
-- Download tensorflow models.
+- Download tensorflow models from [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md).
 - List model names in model_list array in label.py.
 - Make sure you create a label.txt where in object names of your Dataset are listed.
 
