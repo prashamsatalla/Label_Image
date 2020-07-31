@@ -14,6 +14,7 @@ inference on images and draws bounding box and class label.
     - Mask_RCNN
     - ssdlite_mobilenet_v2
     - label.py
+    - label.txt
     - detection.py ( detailed code to get detected labels and co ordinates from model )
 
 4. Run the python file.
