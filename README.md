@@ -20,7 +20,7 @@ inference on images and draws bounding box and class label.
 ```bash
 python label.py
 ```
-<img src="label_img.png" width="700" height="500">
+    <img src="label_img.png" width="700" height="500">
 5. Then there appears UI. Select images folder by clicking 'Directory' and then once loaded click 'Select Image' to select desired image.
 6. Select model and Detection threshold as required.
 7. Also select object that you want the model to detect.
